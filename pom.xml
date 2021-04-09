@@ -21,7 +21,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>src\test\java\runner\Runner.java</mainClass>
+                        <mainClass>src\test\java\runner\Runner</mainClass>
                     </manifest>
                 </archive>
             </configuration>
